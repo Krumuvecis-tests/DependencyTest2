@@ -1,3 +1,4 @@
+import arithmetics.Calculator;
 import main.Main;
 
 import org.junit.jupiter.api.BeforeAll;
@@ -15,10 +16,17 @@ public class Test1 {
     }
 
     @Test
-    void firstTest(){
+    void mainTest(){
         double expected = variable;
         double actual = Main.variable;
-        assertEquals(expected, actual, "Testing error");
+        assertEquals(expected, actual, "Main class testing error");
+    }
+
+    @Test
+    void multiplicatorTest(){
+        double expected = 5 * 6;
+        double actual = Calculator.multiply(5, 6);
+        assertEquals(expected, actual, "Multiplying error");
     }
 
 }
