@@ -7,7 +7,7 @@
 
     <groupId>groupID</groupId>
     <artifactId>DependencyTest2</artifactId>
-    <version>4.0</version>
+    <version>0.4.1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
