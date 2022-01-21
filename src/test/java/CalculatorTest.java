@@ -1,3 +1,4 @@
+import DependencyTest2.Calculator;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -15,8 +16,8 @@ public class CalculatorTest {
 
     @Test
     void multiplicatorTest() {
-        double expected = variable1 * variable2;
-        double actual = Calculator.multiply(variable1, variable2);
+        int expected = variable1 * variable2;
+        int actual = Calculator.multiply(variable1, variable2);
         assertEquals(expected, actual, "Multiplying error");
     }
 }
