@@ -5,9 +5,9 @@
             http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>groupID</groupId>
+    <groupId>com.github.Krumuvecis</groupId>
     <artifactId>DependencyTest2</artifactId>
-    <version>0.4.1</version>
+    <version>0.4.2</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
