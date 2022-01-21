@@ -7,13 +7,13 @@
 
     <groupId>groupID</groupId>
     <artifactId>DependencyTest2</artifactId>
-    <version>3.0</version>
+    <version>4.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
-        <junit.jupiter.version>5.7.0</junit.jupiter.version>
+        <junit.jupiter.version>5.8.2</junit.jupiter.version>
     </properties>
 
     <dependencies>
