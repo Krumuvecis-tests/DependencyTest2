@@ -19,3 +19,4 @@
 # Output folders:
 out/
 # target/
+target/surefire-reports
