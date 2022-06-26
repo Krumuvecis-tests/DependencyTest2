@@ -7,13 +7,13 @@
 
     <groupId>com.github.Krumuvecis</groupId>
     <artifactId>DependencyTest2</artifactId>
-    <version>0.5.1</version>
+    <version>0.5.2</version>
     <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>14</maven.compiler.source>
-        <maven.compiler.target>14</maven.compiler.target>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
         <junit.jupiter.version>5.9.0-M1</junit.jupiter.version>
     </properties>
 
