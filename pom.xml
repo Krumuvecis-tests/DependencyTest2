@@ -7,7 +7,8 @@
 
     <groupId>com.github.Krumuvecis</groupId>
     <artifactId>DependencyTest2</artifactId>
-    <version>0.5</version>
+    <version>0.5.0</version>
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
