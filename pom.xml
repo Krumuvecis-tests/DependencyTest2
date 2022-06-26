@@ -7,7 +7,7 @@
 
     <groupId>com.github.Krumuvecis</groupId>
     <artifactId>DependencyTest2</artifactId>
-    <version>0.5.2</version>
+    <version>0.5.4</version>
     <packaging>jar</packaging>
 
     <properties>
